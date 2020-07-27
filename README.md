@@ -1,6 +1,4 @@
 # hello-world
 a short tutorial
 
-Hello
-
-this is part of the GitHub tutorial.
+This is to code a 'Hellow World' greeting in java.
